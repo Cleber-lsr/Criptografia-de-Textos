@@ -7,25 +7,19 @@ Meu primeiro projeto que consiste em um site que criptografa mensagens
 - JavaScript
 
 ## 🎯 Funcionalidades
-- Criptografia e Descriptografia de mensagens
-- O usuário pode escrever uma mensagem e codificá-la ou o contrário
+- Criptografia de mensagens
+- Descriptografia de mensagens
+- Interface intuitiva
 
 ## 📦 Instalação
-
-bash
-Copiar
-Editar
+```bash
 # Clone o repositório
-git clone https://github.com/Cleber-lsr/Criptografia-de-Textos
+git clone https://github.com/Cleber-lsr/Criptografia-de-Textos.git
 
 # Acesse a pasta
-cd projeto
+cd Criptografia-de-Textos
 
-# Instale as dependências
-npm install
-
-# Execute o projeto
-npm run dev
+# Abra o arquivo index.html no navegador
 
 ## 👤 Autor
 [@Cleber-lsr](https://github.com/Cleber-lsr)
