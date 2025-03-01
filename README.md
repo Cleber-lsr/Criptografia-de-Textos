@@ -20,6 +20,6 @@ git clone https://github.com/Cleber-lsr/Criptografia-de-Textos.git
 cd Criptografia-de-Textos
 
 # Abra o arquivo index.html no navegador
-
+```
 ## 👤 Autor
 [@Cleber-lsr](https://github.com/Cleber-lsr)
